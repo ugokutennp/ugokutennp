@@ -1,5 +1,7 @@
-### Hi, I'm Feather 👋 
-### I make hardware related to XR 🥽 !
+## Hi, I'm Feather 👋 
+[![Twitter Badge](https://img.shields.io/badge/-@ugokutennp-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ugokutennp)](https://twitter.com/ugokutennp)
+
+I make hardware related to XR 🥽 !
 <!--
 **ugokutennp/ugokutennp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
